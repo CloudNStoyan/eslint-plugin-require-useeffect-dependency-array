@@ -2,6 +2,10 @@
   "name": "eslint-plugin-require-useeffect-dependency-array",
   "version": "1.0.0",
   "description": "ESLint rule for React useEffect",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CloudNStoyan/eslint-plugin-require-useeffect-dependency-array.git"
+  },
   "keywords": [
     "eslint",
     "eslint-plugin",
