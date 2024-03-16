@@ -1,4 +1,7 @@
 # `eslint-plugin-require-useeffect-dependency-array`
+[![npm](https://img.shields.io/npm/v/eslint-plugin-require-useeffect-dependency-array)](https://www.npmjs.com/package/eslint-plugin-require-useeffect-dependency-array)
+[![Github License](https://img.shields.io/github/license/CloudNStoyan/eslint-plugin-require-useeffect-dependency-array)](https://github.com/CloudNStoyan/eslint-plugin-require-useeffect-dependency-array/blob/main/LICENSE)
+
 
 This ESLint plugin enforces React useEffect to have a dependency array.
 
