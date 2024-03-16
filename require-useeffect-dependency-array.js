@@ -8,7 +8,7 @@ module.exports = {
     },
     type: "problem",
     docs: {
-      description: "Enforce that a useEffect has a dependency array.",
+      description: "Enforce that useEffect has a dependency array.",
       recommended: true,
     },
     fixable: "code",
