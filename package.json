@@ -1,0 +1,27 @@
+{
+  "name": "eslint-plugin-require-useeffect-dependency-array",
+  "version": "1.0.0",
+  "description": "ESLint rule for React useEffect",
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "eslintplugin",
+    "useeffect-require-dependency-array",
+    "react",
+    "react-useeffect",
+    "react-useeffect-require-dependency-array"
+  ],
+  "author": "Stoyan Kolev",
+  "main": "./eslint-plugin-require-useeffect-dependency-array.js",
+  "exports": "./eslint-plugin-require-useeffect-dependency-array.js",
+  "scripts": {
+    "test": "node require-dependency-array.test.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.19.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=8"
+  },
+  "license": "MIT"
+}
