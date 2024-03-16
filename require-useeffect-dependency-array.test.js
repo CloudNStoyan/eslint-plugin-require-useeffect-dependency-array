@@ -1,7 +1,7 @@
 "use strict";
 
 const { RuleTester } = require("eslint");
-const requireDependencyArrayRule = require("./require-dependency-array.js");
+const requireDependencyArrayRule = require("./require-useeffect-dependency-array.js");
 
 const ruleTester = new RuleTester({
   // Must use at least ecmaVersion 2015 because
@@ -11,7 +11,7 @@ const ruleTester = new RuleTester({
 
 // Throws error if the tests in ruleTester.run() do not pass
 ruleTester.run(
-  "require-dependency-array", // rule name
+  "require-useeffect-dependency-array", // rule name
   requireDependencyArrayRule, // rule code
   {
     // checks

@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-require-useeffect-dependency-array",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ESLint rule for React useEffect",
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
   "main": "./eslint-plugin-require-useeffect-dependency-array.js",
   "exports": "./eslint-plugin-require-useeffect-dependency-array.js",
   "scripts": {
-    "test": "node require-dependency-array.test.js"
+    "test": "node require-useeffect-dependency-array.test.js"
   },
   "devDependencies": {
     "eslint": "^8.19.0"

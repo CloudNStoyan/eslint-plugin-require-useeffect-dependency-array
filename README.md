@@ -35,9 +35,9 @@ Then extend the recommended eslint config:
 
 | Rule                                                                                                                                                | Description                                                        | ✅  | 🔧  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | :-: | :-: |
-| require-dependency-array                             | Enforce that a useEffect has a dependency array                        | ✅  | 🔧  |     |
+| require-useeffect-dependency-array                             | Enforce that a useEffect has a dependency array                        | ✅  | 🔧  |     |
 
-### `require-dependency-array`
+### `require-useeffect-dependency-array`
 
 Examples of incorrect code for this rule:
 ```js
